@@ -1,0 +1,271 @@
+TNGA1 SC to FS32		
+at	cue	for
+0	Start. Proceed west on Hwy 28 from South Carolina border in the middle of a bridge over the Chattooga River.	2.2
+2.2	Intersection with Warwoman Road. Bear left on Warwoman Road. Proceed west.	0.3
+2.5	Intersection with FS86 (Overflow Creek Road). Turn right and head north on FS86.	3.25
+5.75	Intersection with FS86C (Tottery Pole Road) at Owl Gap. Stay straight, proceed west on FS86C. Avoid FS86 to right.	4.04
+9.79	Intersection with FS7 (Hale Ridge Road). Turn right and proceed north on FS7.	1.03
+10.82	Intersection with FS7A. FS7A is unmarked at this intersection though, just look for a road closed barrier about 50 yards off of FS7 to the left. Turn left onto FS7A, go around the barrier and proceed west.	0.51
+11.33	Intersection with FS156A. FS156A is unmarked at this intersection. Avoid roadbed to right. Stay straight on FS156A and continue west.	2.19
+13.52	Intersection with FS156 (Sarahs Creek Road). Turn right on FS156 and proceed north.	0.65
+14.17	Intersection with FS155 (Walnut Creek Road). Turn left onto FS155 and proceed southwest.	5.4
+19.57	FS155A intersects from the left. Stay straight on FS155.	1.29
+20.86	Proceed through gate. FS155 becomes less maintained. Look for Bartram Trail ahead on right.	0.04
+20.9	Continue to end of FS road, Darnell Creek Horse Trail will intersect at Right	0.24
+21.14	At T intersection, continue left on Darnell Creek Horse Trail.	2.4
+23.54	Follow the Darnell Creek Horse trail until it intersects with Old Darnell Creek Road. Proceed Left on road.	1.52
+25.06	Darnell Creek Rd continues to Kelly's Creek Rd. Turn left	0.54
+25.6	Intersection with Hwy 441. Go left on 441 and then right on School Farm Road. Follow School Farm Road around behind Nacoochee School.	1
+26.6	Go left on unpaved Neville Road.	0.87
+27.47	Neville road continues to right. Stay straight on Ov Justus Road.	1.17
+28.64	Intersection with Betty Creek Road. Go left and proceed west on Betty Creek Road.	1.36
+30	Intersection with FS32 (Patterson Gap Road). Turn left and proceed west on FS32.	5.44
+35.44	Intersection with FS32C. Finish TNGA 1.	0
+		
+TNGA 2 FS32 to Hwy197		
+at	cue	for
+0	Start. Intersection of FS32 and FS32C. If you just came down FS32, turn right. Proceed west on FS32C.	0.3
+1.26	Road intersects from left. Stay straight on FS32C.	3.25
+1.51	4 way intersection. Stay straight/left on FS32C.	4.04
+2.19	Creek has become diverted. Roadbed has become creekbed. Keep going.	1.03
+2.25	Trail enters camping area with creek crossings. Turn hard left and continue toward FS54.	0.51
+2.26	Intersection with FS54. Bear left and proceed south on FS54.	2.19
+3.9	Intersection with FS54A. Continue south on FS54.	0.65
+3.91	FS54 becomes Coleman River Road, continue south on Coleman River Road.	5.4
+6.12	Intersection with Persimmon Road. Turn right, proceed west on Persimmon Road.	1.29
+6.25	Intersection with Tallulah River Road. Turn right and proceed west on Tallulah River Road.	0.04
+6.28	Tallulah River Road becomes unpaved FS70. Continue on FS70.	0.24
+10.52	Tallulah River Ford, intersection with Charlies Creek Road. Turn left, cross river, proceed west on Charlies Creek Road. Cross several creeks and avoid intersecting roads from left and right.	2.4
+13.72	Blue Ridge Gap. AT crosses here. Continue west on Charlies Creek Road.	1.52
+14.34	Intersection with paved Upper Hightower Road. Proceed straight/left on Upper Hightower Road.	0.54
+16.67	Intersection with Barefoot Road. Upper Hightower Road curves away to right. Stay straight and proceed on Barefoot Road which will soon become unpaved.	1
+17.72	Barefoot Road becomes paved again. Continue on paved Barefoot Road.	0.87
+18.42	Intersection with Hwy 76. Turn left and proceed east on Hwy 76.	1.17
+20.89	Intersection with FS164 at mile marker 1, near the end of a guardrail. FS164 is not marked at this intersection. Turn hard right, downhill and proceed around gate into FS164.	1.36
+23.67	FS154 becomes Dick Creek Rd. Proceed straight to Hwy 197	5.44
+24.68	Hwy 197 Finish TNGA 2.	0
+		
+TGNA 3 Hwy197 to Robertstown		
+at	cue	for
+0	Start. Intersection of FS164 and Hwy 197. If you just came down FS164, turn right. Proceed south on Hwy 197.	2.84
+2.84	Intersection of Hwy 197 and FS26-1 (Wildcat Creek Road). Turn right and proceed west on FS26-1. Avoid roads and trails to left and right.	8.31
+11.15	Intersection with FS675. FS675 continues straight. FS26-1 continues to left. Turn left and proceed on FS26-1.	0.41
+11.56	Addis Gap. Swallow Creek WMA sign. Intersection with AT and FS26-2. FS26-2 is unmarked at this intersection. Proceed west, downhill on FS26-2.	0.92
+12.48	Go around gate, bear right to stay on FS26-2. Continue on FS26-2, avoiding roads and trails to either side.	2.39
+14.87	FS26-2 becomes paved Mill Creek Road. Continue on Mill Creek Road.	1.2
+16.07	Intersection with Hwy 75. Turn left and proceed south on Hwy 75.	0.74
+16.81	Intersection with FS698. Bear left and proceed on FS698.	4.27
+21.08	Intersection with FS698A. Stay straight on FS698.	1.03
+22.11	Intersection with FS305. Improperly marked at this intersection. Continue straight on FS698.	4.96
+27.07	Tray Gap. Intersection with AT and FS79. Turn left and proceed east on FS79.	2.61
+29.68	Intersection with FS690 (Hickory Nut Approach Trail). FS79 bends sharply away to the left. Bear right and proceed south on FS690.	0.6
+30.28	End of FS690 (Hickory Nut Approach Trail). Go around dirt pile and proceed south, descending the Hickory Nut Trail. USE CAUTION. This trail very rough with large rocks hiding behind humps and obscured by deep leaves in the fall/winter and ferns in the spring/summer.	2.52
+32.8	Intersection. Turn right to stay on the Hickory Nut Trail. Continue to use caution. This part of the trail is cleaner but is still pretty rough.	1.17
+33.97	Intersection with paved South Unicoi Campground Road. Turn left and proceed on South Unicoi Campground Road.	1.03
+35	Intersection with Hwy 356. Turn right and proceed west on Hwy 356.	1.76
+36.76	Intersection Hwy 75. Finish TNGA 3.	0
+		
+TNGA 4		
+at	cue	for
+0	Start. Intersection of Hwy 356 and Hwy 75. If you just came down Hwy 356, turn right. Proceed northwest on Hwy 75.	0.35
+0.35	Intersection with Hwy 75 Alt. Turn left and proceed west on Hwy 75 Alt.	2.29
+2.64	Intersection with Hwy 348. Turn right and proceed west on Hwy 348.	7.05
+9.69	Hogpen Gap. AT Intersection. Continue northwest on Hwy 348.	4.03
+13.72	Intersection with Hatchet Creek Road. Finish TNGA 4.	0
+		
+TNGA 5		
+at	cue	for
+0	Start. Intersection of Hwy 348 and Hatchet Creek Road. If you just came down Hwy 348, turn left. Proceed west on Hatchet Creek Road.	0.55
+0.55	Hatchet Creek Road becomes unpaved. Continue on unpaved Hatchet Creek Road.	0.74
+1.29	Intersection with FS118. Bear right on FS118.	0.6
+1.89	Pass Helton Creek Falls on left. It’s pretty awesome. If you have time, check it out.	0.64
+2.53	Intersection with FS118B. Stay straight on FS118.	0.92
+3.45	FS118 becomes paved Helton Creek Road. Continue on Helton Creek Road.	0.74
+4.18	Intersection with Hwy 129. Turn right and proceed northwest on Hwy 129.	1.51
+5.69	Intersection with Hwy 180 (Wolfpen Gap Road). This intersection is easy to miss. Turn left on Hwy 180.	1.9
+7.58	Intersection with FS107 and Coosa Backcountry Trail. Continue on Hwy 180.	1.45
+9.04	Wolfpen Gap. Intersection with Duncan Ridge Road and FS39. Bear right and proceed west on FS39. Avoid intersecting roads and trails.	9.64
+18.68	Intersection with FS4. Turn left and proceed southwest on FS4.	2.71
+21.39	FS4 becomes paved Cooper Creek Road. Continue on Cooper Creek Road.	0.37
+21.75	Intersection with FS264. Continue on Cooper Creek Road.	0.74
+22.5	Cooper Creek Road becomes unpaved. Continue on unpaved Cooper Creek Road.	0.3
+22.79	Cooper Creek Road becomes paved again. Continue on Cooper Creek Road.	1.98
+24.77	Intersection with Hwy 60. Turn right and continue west on Hwy 60.	1.04
+25.81	Intersection with Rock Creek Road. Turn left and proceed west on Rock Creek Road.	1.05
+26.86	Rock Creek Road becomes unpaved FS69. Continue on FS69.	1.14
+28	Intersection with FS333. Turn right and proceed across bridge on FS333.	0.1
+28.1	Intersection with FS766. Continue west on FS333.	3.1
+31.2	FS333 becomes Old Rock Creek Road. Continue ahead on Old Rock Creek Road.	0.57
+31.77	Intersection with Doublehead Gap Road. Turn right and proceed north on Doublehead Gap Road.	0.28
+32.05	Intersection with Silver Fox Trail. Turn left and proceed west on Silver Fox Trail.	0.52
+32.57	Intersection with Dial Road. Bear left and proceed on Dial Road.	1.33
+33.9	Dial Road becomes Old Dial Road. Continue ahead on Old Dial Road.	3.36
+37.27	Intersection with Shallowford Bridge Road. Turn left and proceed on Shallowford Bridge Road.	1.25
+38.51	Intersection with Shallow Ford Road. Bear left on Shallow Ford Road. Cross Bridge.	0.15
+38.67	Intersection Aska Road. Finish TNGA 5.	0
+		
+TNGA 6		
+at	cue	for
+0	Start. Intersection of Shallow Ford Road and Aska Road. If you just crossed the bridge on Shallow Ford Road, turn right. Proceed southwest on Aska Road.	2.5
+2.5	Intersection with Shady Falls Road. Turn right, proceed northeast on Shady Falls Road.	0.19
+2.69	Intersection with driveway for Long Branch trailhead parking lot. Turn left and proceed north to Long Branch trailhead parking lot.	0.06
+2.76	Beginning of Long Branch Trail. Proceed west on Long Branch Trail.	0.21
+2.96	Long Branch Trail intersects itself from right. Continue straight on Long Branch Trail.	0.94
+3.91	Intersection with Green Mountain Connector. Turn nearly 180 degrees left and proceed north on Green Mountain Connector.	0.36
+4.27	Intersection with Green Mountain Trail. Turn left and proceed west on Green Mountain Trail.	0.19
+4.46	3 way intersection. Stay left, proceed downhill on Lower Green Mountain Trail.	0.95
+5.41	Intersection with Aska Road. Cross Aska Road, proceed into Aska Adventure Area parking lot.	0.03
+5.44	Continue past kiosk on Flat Creek Trail.	0.08
+5.52	Intersection with Stanley Gap Trail. Bear right onto Stanley Gap Trail. Proceed on Stanley Gap Trail.	0.26
+5.79	Intersection with Flat Creek Connector to the left. Turn right and continue on Stanley Gap Trail.	1.42
+7.2	Benton MacKaye Trail intersects from the right and joins Stanley Gap Trail. Turn left and continue on Stanley Gap Trail.	2.03
+9.23	Benton MacKaye continues straight. Stanley Gap Trail continues to right. Turn right and proceed on Stanley Gap Trail.	0.61
+9.84	Stanley Gap parking lot. Bear right to intersection with Rock Creek Road. Turn right and proceed west on Rock Creek Road.	2.99
+12.83	Rock Creek Road becomes paved. Continue on paved Rock Creek Road.	2.22
+15.06	Intersection with Cherry Log Street. Turn right and proceed north on Cherry Log Street.	0.31
+15.37	Intersection with Goose Island Road. Bear left and proceed on Goose Island Road.	1.52
+16.89	Pavement ends. Continue on unpaved Goose Island Road.	1.53
+18.43	Intersection with paved Whitepath Road. Turn right and proceed north on Whitepath Road.	1.94
+20.37	Intersection with Boardtown Road. Bear right and proceed north on Boardtown Road.	1.63
+22	Intersection with Bushy Head Road. Turn left and proceed on Bushy Head Road.	1.03
+23.03	Pavement ends. Continue on unpaved Bushy Head Gap Road.	0.62
+23.65	Bushy Head Gap. Intersection with multiple roads and Benton MacKaye Trail. Bushy Head Gap Road turns to the right. Do not turn right. Proceed ahead, north, downhill on Bushy Head Ct.	0.88
+24.52	Unpaved Bushy Head Ct. becomes paved Cashes Valley Road. Continue on paved Cashes Valley Road.	0.04
+24.56	Intersection with unpaved Cashes Valley Road to the left. Bear right and continue on paved Cashes Valley Road.	2.46
+27.02	Intersection with Old GA Hwy 2. Turn left and proceed west on Old GA Hwy 2.	5.63
+32.65	Old GA Hwy 2 becomes unpaved FS64. Continue on FS64.	1.28
+33.93	Watson Gap. FS22 intersects from right. FS126 ahead. FS64 continues to left. Turn left and continue on FS64.	3.31
+37.24	Dyer Gap. Finish TNGA 6.	0
+		
+TNGA 7		
+at	cue	for
+0	Start. Proceed southwest on FS64.	0.66
+0.66	Intersection with South Fork Trail. Turn right and proceed north on South Fork Trail.	1.99
+2.65	Eastern Pinhoti Terminus. Benton MacKaye to the right. Continue to left/straight on South Fork Trail.	0.11
+2.76	Wide, deep creek crossing.	0.19
+2.95	Intersection. Pinhoti exits left. South Fork trail continues. Turn almost 180 degrees left and proceed southwest on Pinhoti Trail.	1.12
+4.08	Pinhoti Singletrack ends, FS64B continues southwest. Proceed southwest on FS64B.	1.59
+5.67	Buddy Cove Gap. Intersection with FS64. Mountaintown Creek Trail across road. Turn right and proceed west on FS64.	2.47
+8.14	Three Forks Trail parking lot on right. Stay left on FS64.	4.13
+12.27	Potatopatch Mountain. 3 way intersection. Turn left and proceed south/downhill on FS68.	1.32
+13.59	Upper Bear Creek Parking Lot. Bear left through parking lot and proceed on Bear Creek Trail.	0.32
+13.92	Intersection with Bear Creek Loop Trail. Stay left/straight, cross stream, proceed downhill on Bear Creek Loop Trail.	1.25
+15.17	Intersection with Bear Creek Trail. Bear Creek Loop Trail continues to left. Stay straight, go around gate and proceed east on Bear Creek Trail.	1.73
+16.9	Intersection with Pinhoti Trail. Turn right and proceed uphill on Pinhoti Trail.	3.66
+20.56	Intersection with FS90 (unmarked at this intersection). Turn left and proceed south on FS90.	0.13
+20.68	Intersection with FS90B. Turn right and proceed southwest on FS90B.	0.45
+21.14	Parking area. Turn right and continue on FS90B.	1.43
+22.57	Old roadbed ends. Singletrack begins. Continue on singletrack.	1.64
+24.21	Intersection with Mulberry Gap Road. Turn right and proceed northwest on Mulberry Gap Road.	1.1
+25.31	Intersection with Pinhoti Trail to left. Sometimes it’s a bit overgrown here and may be tricky to spot. Turn left and proceed uphill on Pinhoti Trail.	3.66
+28.97	Intersection with Hwy 52. Turn right and proceed west on Hwy 52.	0.42
+29.39	Intersection with Pinhoti Trail. Turn left and proceed southwest on Pinhoti Trail.	0.72
+30.11	Intersection with roadbed. Stay right/straight on roadbed.	0.26
+30.37	Intersection with Tatum Lead Road. Go around gate, turn left and proceed south on Tatum Lead Road.	0.34
+30.71	Tatum Lead Road becomes a 4WD trail. Continue, avoiding trails to either side.	1.77
+32.48	Intersection with Pinhoti Trail. Turn right and proceed downhill on Pinhoti Trail. Use caution, this trail is fast and suddenly rocky at times.	1.51
+33.98	Field/Food Plot. This clearing is often full of tall grass and difficult to tell where to go. Bear very slight right and proceed directly across to pick up the trail on the other side. The trail there is wide and obvious. You’ll need to cross a creek immediately upon exiting the field. Proceed west on that trail.	0.61
+34.59	Gate. Proceed around gate. Trail becomes FS3 (unmarked at this end). Continue west on FS3.	0.86
+35.45	Intersection with FS3A. Turn right and continue on FS3.	1.33
+36.78	4wd jeep road intersects on Left. Go around gate and follow road	1.72
+38.5	Trail intersects on Right. Stay straight on jeep rd	3
+41.5	Jeep road becomes singletrack Dennis Mill trail. Continue on singletrack	3
+44.5	Singletrack ends at Dennis Mill Trailhead. Proceed across gravel lot to Dennis Mill Rd	0.01
+44.51	Take Dennis Mill Rd to the Right	1.28
+45.79	Intersection of Old Federal Rd. Turn left on Old Federal	1.14
+46.93	Intersection of Hwy 411. Finish TNGA 7.	0
+		
+TNGA 8		
+at	cue	for
+0	Start. Intersection of Old Federal Road and Hwy 411. If you just came down Old Federal Road, turn right. Proceed north on Hwy 411 briefly, then turn left and proceed west on Smyrna/Ramhurst Road.	0.33
+0.33	Intersection with Ball Ground Road. Bear left onto Ball Ground Road.	1.36
+1.69	Intersection with Connally Road. Turn right and proceed west on Connally Road.	1.47
+3.16	Intersection with Berry Bennett Road. Continue straight on Berry Bennett Road.	2.13
+5.29	Intersection with Smyrna Church Road. Continue straight on Smyrna Church Road.	0.78
+6.06	Intersection with Hwy 225. Cross Hwy 225. Road becomes Browns Bridge Road. Continue on Browns Bridge Road.	1.81
+7.87	Intersection with Browns Bridge Road SE. Continue straight on Browns Bridge Road SE.	1.81
+9.68	Intersection with Airport Road. Bear right and continue northwest on Airport Road.	5.88
+15.56	Intersection with Hwy 52. Turn left and proceed southwest on Hwy 52. Pass through the city of Dalton.	4.17
+19.73	Hwy 52 crosses I-75. Hwy 52 becomes Dug Gap Road. Continue on Dug Gap Road.	1.88
+21.61	Intersection with FS202. Finish TNGA 8.	0
+		
+TNGA 9		
+at	cue	for
+0	Start. Intersection of Dug Gap Road and FS202. If you just came up Dug Gap Road, turn left. Proceed on FS202.	0.64
+0.64	Radio antennas. Bear left onto singletrack. Proceed south on Pinhoti trail through extremely rocky terrain.	3.47
+4.11	Pinhoti trail joins another trail. Bear left and proceed on combined trail briefly, then turn right and continue on Pinhoti trail.	3.98
+8.09	Intersection with FS207A (not marked at this intersection). Turn right almost 180 degrees and proceed north on FS207A.	1.24
+9.33	Bear right on short strip of singletrack and join old roadbed. Bear right on old roadbed. Cross several creeks.	1.33
+10.66	Begin climb to ridgeline. Old roadbed gets narrower and narrower and eventually becomes singletrack.	4.58
+15.24	Snake Creek Gap parking lot. Cross parking lot, cross road and proceed west on Pinhoti trail.	3.35
+18.59	Trail intersects from the left and joins Pinhoti trail. Turn right and continue downhill.	0.04
+18.64	Turn left and proceed on Pinhoti trail.	0.91
+19.55	Pilcher Pond Trail continues ahead. Turn right and continue on Pinhoti Trail.	1.23
+20.78	Intersection with Pocket Road. Cross Pocket Road and continue northwest on Pinhoti Trail.	1.51
+22.29	Intersection with FS208 (unmarked at this intersection). Turn right and proceed on FS208.	1.08
+23.36	Intersection with Pinhoti Trail. Turn right and proceed downhill on Pinhoti Trail.	2.51
+25.87	Intersection with FS310 (unmarked at this intersection). Turn hard left and continue on FS310.	1.85
+27.72	Go around gate, bear left, cross creek. Continue for a short distance on FS310.	0.07
+27.79	Pinhoti trail intersects from left. Turn left and proceed southwest on old roadbed.	1.2
+28.99	Intersection with singletrack. This intersection is easy to miss. Turn right and continue on singletrack.	1.12
+30.11	Small parking lot. Intersection with East Amurchee Road. Finish TNGA 9.	0
+		
+TNGA 10		
+at	cue	for
+0	Start. Intersection of Pinhoti trail and East Amurchee Road. If you just came off of the Pinhoti, turn left. Proceed south on East Amurchee Road.	0.28
+0.28	Intersection with Manning Mill Road. Turn right and proceed on Manning Mill Road.	0.82
+1.1	Intersection with FS227. Turn left and continue west on FS227. Cross creek.	0.11
+1.21	Pinhoti parking lot. Turn left, proceed through parking lot. Go over dirt mound, look for Pinhoti trail markers to the right (easy to miss) and bear right onto Pinhoti trail. Cross power line cut twice.	0.42
+1.62	Intersection with FS227A (unmarked at this intersection and easy to miss). Bear hard right and climb. FS227A is just a trail here but eventually widens and becomes a roadbed.	1.48
+3.1	Intersection with FS227. Cross FS227 and continue on Pinhoti singletrack.	1.28
+4.38	Intersection with FS269 (unmarked at this intersection). Bear right and proceed on FS269.	1.37
+5.75	Intersection with West Amurchee Road. Turn left and proceed south on West Amurchee Road.	0.26
+6.01	Intersection with Narrows Picnic Road. Turn right and continue on Narrows Picnic Road.	1.73
+7.73	Narrows Picnic Road becomes unpaved FS259. Continue southwest on FS259.	0.28
+8.01	Narrows Picnic Area parking lot. Look for stone pillar on left hand side of road. Parking lot is on the right. Bear right into parking lot. Proceed north on Pinhoti singletrack.	0.88
+8.89	Intersection with FS259. Bear right and proceed south on FS259.	0.53
+9.42	Multi-way intersection. FS259 proceeds downhill ahead to the left. Continue on FS259.	0.21
+9.63	Intersection with Pinhoti Trail. This intersection is not very obvious. Trail marker may be missing. Bear right, go around dirt mount, proceed uphill on doubletrack.	0.74
+10.37	Top of ridge. Bear left and continue downhill on Pinhoti Trail.	1.98
+12.35	Intersection with FS259 (unmarked at this intersection). Pinhoti trail marker may be missing at this intersection. Turn right and proceed southwest on FS259.	0.74
+13.08	FS259 becomes doubletrack. Continue on doubletrack which will eventually become singletrack and then doubletrack again.	1.5
+14.58	Doubletrack becomes FS254. Continue on FS254.	2.63
+17.21	Pinhoti trail to right. This intersection is well marked. Turn right and proceed on Pinhoti singletrack.	0.61
+17.82	Intersection with Hwy 27. Cross Hwy 27. Proceed west, uphill on FS205.	0.46
+18.28	Intersection with FS205A. Turn right and continue uphill on FS205A.	0.3
+18.58	Pinhoti trail intersects from left. This intersection may be hard to find. Bear left and continue on Pinhoti trail.	4.42
+23	Intersection with FS201. Stay straight/left and continue southwest on FS201.	2.19
+25.19	Intersection with Pinhoti singletrack. Bear left and proceed downhill on singletrack.	1.86
+27.05	High Point parking lot, intersection with Hwy 100. Cross parking lot, turn left and proceed south on Hwy 100.	1.05
+28.1	Intersection with Starling Mill Road. Turn right and proceed northwest on Starling Mill Road.	0.2
+28.3	Intersection with Pinhoti trail. Trail follows old railbed. Turn left and proceed on Pinhoti trail.	1
+29.3	Intersection with Worsham Road. Pinhoti diverges from old railbed (which crosses private property) and rejoins at the end of the fence line. Continue on Pinhoti trail.	1.04
+30.34	Pinhoti crosses 2 roads and passes through small group of homes and old buildings. Continue southwest on Pinhoti trail.	5.12
+35.45	Intersection with Hwy 100. Simms Mountain trail is across the road. Finish TNGA 10.	0
+		
+TNGA 11		
+at	cue	for
+0	Start. Cross Hwy 100 onto Simms Mountain Trail (still Pinhoti).	1.8
+1.8	Cross Friday Road	1.5
+3.3	Cross Big Texas Valley Road	0.7
+4	Right on Huffaker Rd	2.6
+6.6	Left on Hwy 20	1.4
+8	Right on Rome Bypass	5.8
+13.8	Right on Blacks Bluff Road	4.6
+18.4	Left on Spout Springs Rd	2.5
+20.9	Right on Mills Rd	2.3
+23.2	Left on Alabama Street	0.4
+23.6	Right on Rolater Drive	0.3
+23.9	Left on Old Cedartown Rd	2.4
+26.3	Right on Estate Road, Gate, Gravel Follow Pinhoti Blazes	2.2
+28.5	Cross Santa Claus Road, Dirt	0.5
+29	Cross Hwy 100, Paved	0.7
+29.7	Left on Esom Hill Road	1.7
+31.4	Cross Prior Station Road	2.3
+33.7	Esom Hill Road becomes McBeck Road	1.3
+35	Stay straight	1.3
+36.3	Right on Hwy 278	0.2
+36.5	Left on Lumpkin Rd	0.2
+36.7	Right on Silver Comet Trail	1.5
+38.2	AL State Line. Finish TNGA.	0
+		
